@@ -1,0 +1,137 @@
+{
+  "employee": [
+    {
+      "name": "AND",
+      "Attendence": "0"
+    },
+    {
+      "name": "Abdullah",
+      "Attendence": "0"
+    },
+    {
+      "name": "Abel",
+      "Attendence": "0"
+    },
+    {
+      "name": "Abor_ah",
+      "Attendence": "1"
+    },
+    {
+      "name": "Abdul",
+      "Attendence": "1"
+    },
+    {
+      "name": "Ashutosh",
+      "Attendence": "1"
+    },
+    {
+      "name": "Arseniy",
+      "Attendence": "0"
+    },
+    {
+      "name": "Brad",
+      "Attendence": "0"
+    },
+    {
+      "name": "CTO",
+      "Attendence": "0"
+    },
+    {
+      "name": "Dave",
+      "Attendence": "0"
+    },
+    {
+      "name": "Essar",
+      "Attendence": "0"
+    },
+    {
+      "name": "Ivan",
+      "Attendence": "1"
+    },
+    {
+      "name": "Jahirul",
+      "Attendence": "0"
+    },
+    {
+      "name": "Jesse",
+      "Attendence": "0"
+    },
+    {
+      "name": "Josh",
+      "Attendence": "0"
+    },
+    {
+      "name": "Kwadwo",
+      "Attendence": "0"
+    },
+    {
+      "name": "Lisa",
+      "Attendence": "0"
+    },
+    {
+      "name": "Mark",
+      "Attendence": "0"
+    },
+    {
+      "name": "Masooma",
+      "Attendence": "1"
+    },
+    {
+      "name": "Richmond",
+      "Attendence": "0"
+    },
+    {
+      "name": "Robiul",
+      "Attendence": "0"
+    },
+    {
+      "name": "Sara",
+      "Attendence": "0"
+    },
+    {
+      "name": "Shivani",
+      "Attendence": "0"
+    },
+    {
+      "name": "Simran",
+      "Attendence": "1"
+    },
+    {
+      "name": "Stephen",
+      "Attendence": "0"
+    },
+    {
+      "name": "Tapish",
+      "Attendence": "0"
+    },
+    {
+      "name": "Usama",
+      "Attendence": "0"
+    },
+    {
+      "name": "slimad",
+      "Attendence": "0"
+    },
+    {
+      "name": "X/!",
+      "Attendence": "0"
+    }
+  ],
+  "Allowed": [
+    {
+      "name": "Mike"
+    },
+    {
+      "name": "Dave"
+    },
+    {
+      "name": "Ivan"
+    },
+    {
+      "name": "Abdul"
+    },
+    {
+      "name": "CTO"
+    }
+  ]
+}
